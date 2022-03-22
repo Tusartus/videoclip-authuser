@@ -1,0 +1,20 @@
+
+iframe{
+
+    width:1306px;
+    height:450px;
+    margin-top: 253px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    padding:25px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+h1{
+    margin-bottom: 23px;
+}
